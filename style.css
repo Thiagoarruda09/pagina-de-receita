@@ -19,6 +19,12 @@
     #secundario{
         background-image: none;
     }
+
+    .macarronadaItalic{display: flex;
+    flex-direction: column;}
+
+    .recbolo{display: flex;
+    flex-direction: column;}
    
     
 
@@ -39,7 +45,9 @@ body {
 }
 
 header {
-    background-color: #FE5722;
+    background-image: url(fundo03.jpg);
+    background-size: cover;
+    background-attachment: fixed;
     text-align: center;
     color: white;
     height: 180px;
@@ -182,9 +190,13 @@ div {
 
 
 .macarronadaItalic {
-    display: inline-block;
+    display: inline-flex;
+    
 
 }
+iframe{margin-top: 20px;
+border-radius: 10px;
+border: #FE5722;}
 
 .macarronadaItalic>article {
     background-color: rgba(255, 255, 255, 0.636);
