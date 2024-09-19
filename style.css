@@ -3,7 +3,7 @@
     src: url(fontes/coolvetica\ rg.otf);
 }
 
-@media(max-width:600px) {
+@media(max-width:500px) {
 
     .fundo01 {
         display: none;
