@@ -26,7 +26,17 @@
     .recbolo{display: flex;
     flex-direction: column;}
 
-    iframe{width: 480px;}
+    iframe{width: 400px;
+    display: flex;
+flex-direction: column;
+align-content: center;
+align-items: center;
+margin-left: 50px;
+}
+
+    header{width: 500px;}
+
+    footer{width: 500px;}
    
     
 
