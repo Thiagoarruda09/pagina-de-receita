@@ -283,10 +283,6 @@ h2 {
 
 }
 
-
-
-
-
 .nutricional {
     background-image: url(nutricionista-alimentacao-1647291298693_v2_450x450.jpg);
     background-size: contain;
@@ -317,28 +313,7 @@ td {
 
 }
 
-.recbolo > article:hover {
-    background-color: white;
-    color: black;
-   
-    background-image: none;
-    transition: 2s;
-}
-.passosmacarrao > article:hover{    background-color: white;
-    color: black;
-
-    background-image: none;
-    transition: 2s;}
-
-.nutricional > table:hover {
-    background-color: white;
-    color: black;
- 
-    background-image: none;
-    transition: 2s;
-}
-
-.macarronadaItalic >article:hover {
+.recbolo>article:hover {
     background-color: white;
     color: black;
 
@@ -346,7 +321,31 @@ td {
     transition: 2s;
 }
 
-.passosbolo > article:hover{
+.passosmacarrao>article:hover {
+    background-color: white;
+    color: black;
+
+    background-image: none;
+    transition: 2s;
+}
+
+.nutricional>table:hover {
+    background-color: white;
+    color: black;
+
+    background-image: none;
+    transition: 2s;
+}
+
+.macarronadaItalic>article:hover {
+    background-color: white;
+    color: black;
+
+    background-image: none;
+    transition: 2s;
+}
+
+.passosbolo>article:hover {
     background-color: white;
     color: black;
 
