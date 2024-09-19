@@ -136,7 +136,11 @@ div {
 }
 
 .tabelanutri {
-    display: inline-flex;
+    display:flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
     background-image: none;
 }
 
