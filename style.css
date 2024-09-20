@@ -54,6 +54,7 @@ body {
     text-align: center;
     background-attachment: fixed;
     background-size: cover;
+   opacity: 90%;
 }
 
 header {
